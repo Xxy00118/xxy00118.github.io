@@ -18,5 +18,5 @@ social: true  # includes social icons at the bottom of the page
 
 Hi! I'm a graduate student at Beijing Normal University (BNU) working with [Fei Xie](http://gcess.bnu.edu.cn/yjspy/dsjj/112817.html).
 
-I'm intereing in the operating mechanism of the stratosphere and troposphere. 
+I'm interesting in the operating mechanism of the stratosphere and troposphere. 
 
