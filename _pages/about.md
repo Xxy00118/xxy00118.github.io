@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: ustc.jpg
+  image: bnu.JPG
   image_circular: false # crops the image to make it circular
   address: >
 
@@ -16,5 +16,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi! I'm a graduate student at University of Science and Technology of China (USTC) working with [Xianghang Mi](https://xianghang.me/).
+Hi! I'm a graduate student at Beijing Normal University (BNU) working with [Fei Xie](http://gcess.bnu.edu.cn/yjspy/dsjj/112817.html).
+
+I'm intereing in the operating mechanism of the stratosphere and troposphere. 
 
